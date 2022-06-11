@@ -144,7 +144,7 @@ export const RESOURCES = [
     message: "Ficou baum naum em",
   },
   {
-    key: "cheeeega",
+    key: "cheeeeega",
     audio: "cheeeega.mp3",
     label: "Cheeeega",
     message: "Cheeeega",
